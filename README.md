@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <br>
 
 ### Connect with me
+[<img align="left" alt="website" src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=hashnode&logoColor=white" />](https://www.waqar.dev)
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/waahm7)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/2563684/waqar)
