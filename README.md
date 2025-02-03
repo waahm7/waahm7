@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🔭 Working on multiple Android and Backend project using Kotlin, Java and Spring boot.
 - 🌱 I’m currently learning about compilers.
 - 👯 I’m looking to collaborate on compilers projects.
-
+-->
 <br>
 
 ### Connect with me
