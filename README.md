@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **waahm7/waahm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +16,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about compilers.
 - 👯 I’m looking to collaborate on compilers projects.
 -->
-<br>
 
 ### Connect with me
 [<img align="left" alt="website" src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=hashnode&logoColor=white" />](https://www.waqar.dev)
